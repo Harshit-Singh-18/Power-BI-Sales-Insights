@@ -14,18 +14,6 @@ This project focuses on analyzing sales data and creating interactive visualizat
 - **Product & Sales Tracking:** Monitored trends for 33 products across 16 states.
 - **Insightful Analysis:** Provided insights that contributed to $107.4 million in sales and enhanced decision-making for 54 stores.
 
-## Installation
-
-To run this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo
-    ```
 
 ## Contributing
 
